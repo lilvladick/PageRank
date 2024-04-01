@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\PageRankLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD853630-D083-4CC2-942D-BAAEDFB469ED}|PageRankForm\\PageRankForm.csproj|A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\PageRankLib\\pagerankform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD853630-D083-4CC2-942D-BAAEDFB469ED}|PageRankForm\\PageRankForm.csproj|solutionrelative:pagerankform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD853630-D083-4CC2-942D-BAAEDFB469ED}|PageRankForm\\PageRankForm.csproj|a:\\programming\\tstu\\malkov a. a\\2nd year\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\pageranklib\\pagerankform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD853630-D083-4CC2-942D-BAAEDFB469ED}|PageRankForm\\PageRankForm.csproj|solutionrelative:pagerankform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E071B515-E89D-4E47-8ED0-CA420F1E95EB}|PageRankConsole\\PageRankConsole.csproj|A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\PageRankLib\\pagerankconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E071B515-E89D-4E47-8ED0-CA420F1E95EB}|PageRankConsole\\PageRankConsole.csproj|solutionrelative:pagerankconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5CCEBC-FA0D-4C63-AFC1-25F13C79F5B5}|PageRankLib\\PageRankLib.csproj|A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\PageRankLib\\pageranklib\\pagerank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5CCEBC-FA0D-4C63-AFC1-25F13C79F5B5}|PageRankLib\\PageRankLib.csproj|solutionrelative:pageranklib\\pagerank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\PageRankLib\\PageRankForm\\Form1.cs",
+              "RelativeDocumentMoniker": "PageRankForm\\Form1.cs",
+              "ToolTip": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\PageRankLib\\PageRankForm\\Form1.cs",
+              "RelativeToolTip": "PageRankForm\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwBIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:32:47.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\PageRankLib\\PageRankForm\\Form1.cs",
+              "RelativeDocumentMoniker": "PageRankForm\\Form1.cs",
+              "ToolTip": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\PageRankLib\\PageRankForm\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "PageRankForm\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:32:29.874Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\PageRankLib\\PageRankConsole\\Program.cs",
+              "RelativeDocumentMoniker": "PageRankConsole\\Program.cs",
+              "ToolTip": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\PageRankLib\\PageRankConsole\\Program.cs",
+              "RelativeToolTip": "PageRankConsole\\Program.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:06:32.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageRank.cs",
+              "DocumentMoniker": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\PageRankLib\\PageRankLib\\PageRank.cs",
+              "RelativeDocumentMoniker": "PageRankLib\\PageRank.cs",
+              "ToolTip": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\PageRankLib\\PageRankLib\\PageRank.cs",
+              "RelativeToolTip": "PageRankLib\\PageRank.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAArwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T15:05:11.533Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
