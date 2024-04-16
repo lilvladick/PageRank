@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PageRankConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62fa6150383316f6981b1113088605be977ae907")]
 [assembly: System.Reflection.AssemblyProductAttribute("PageRankConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PageRankConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "znw5BJgD2DJn25kmE4PNMcNZLXd0KmtimoergIRQ/bKtq5jiDx+SAGkrAsy+wNvYdftqicdLwe4+22ycwtai9w==",
+  "dgSpecHash": "SYiyKyilU/5YePlo0IbHf33o45trVCWoN0eB72QxvoN2IsANJ+vwv7O4at9mc0GIwuF73yKH/S+CXEuocCnZuA==",
   "success": true,
-  "projectFilePath": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\Курсовая работа\\PageRankLib\\PageRankConsole\\PageRankConsole.csproj",
+  "projectFilePath": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\Course Work\\PageRank\\PageRankLib\\PageRankConsole\\PageRankConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

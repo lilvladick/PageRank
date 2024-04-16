@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PageRankForm
-build_property.ProjectDir = A:\Programming\TSTU\Malkov A. A\2nd year\Курсовая работа\PageRankLib\PageRankForm\
+build_property.ProjectDir = A:\Programming\TSTU\Malkov A. A\2nd year\Course Work\PageRank\PageRankLib\PageRankForm\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

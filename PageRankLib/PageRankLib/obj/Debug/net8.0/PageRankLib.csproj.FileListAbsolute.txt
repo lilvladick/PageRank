@@ -9,3 +9,15 @@ A:\Programming\TSTU\Malkov A. A\2nd year\Курсовая работа\PageRankL
 A:\Programming\TSTU\Malkov A. A\2nd year\Курсовая работа\PageRankLib\PageRankLib\obj\Debug\net8.0\refint\PageRankLib.dll
 A:\Programming\TSTU\Malkov A. A\2nd year\Курсовая работа\PageRankLib\PageRankLib\obj\Debug\net8.0\PageRankLib.pdb
 A:\Programming\TSTU\Malkov A. A\2nd year\Курсовая работа\PageRankLib\PageRankLib\obj\Debug\net8.0\ref\PageRankLib.dll
+A:\Programming\TSTU\Malkov A. A\2nd year\Course Work\PageRank\PageRankLib\PageRankLib\bin\Debug\net8.0\PageRankLib.deps.json
+A:\Programming\TSTU\Malkov A. A\2nd year\Course Work\PageRank\PageRankLib\PageRankLib\bin\Debug\net8.0\PageRankLib.dll
+A:\Programming\TSTU\Malkov A. A\2nd year\Course Work\PageRank\PageRankLib\PageRankLib\bin\Debug\net8.0\PageRankLib.pdb
+A:\Programming\TSTU\Malkov A. A\2nd year\Course Work\PageRank\PageRankLib\PageRankLib\obj\Debug\net8.0\PageRankLib.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programming\TSTU\Malkov A. A\2nd year\Course Work\PageRank\PageRankLib\PageRankLib\obj\Debug\net8.0\PageRankLib.AssemblyInfoInputs.cache
+A:\Programming\TSTU\Malkov A. A\2nd year\Course Work\PageRank\PageRankLib\PageRankLib\obj\Debug\net8.0\PageRankLib.AssemblyInfo.cs
+A:\Programming\TSTU\Malkov A. A\2nd year\Course Work\PageRank\PageRankLib\PageRankLib\obj\Debug\net8.0\PageRankLib.csproj.CoreCompileInputs.cache
+A:\Programming\TSTU\Malkov A. A\2nd year\Course Work\PageRank\PageRankLib\PageRankLib\obj\Debug\net8.0\PageRankLib.sourcelink.json
+A:\Programming\TSTU\Malkov A. A\2nd year\Course Work\PageRank\PageRankLib\PageRankLib\obj\Debug\net8.0\PageRankLib.dll
+A:\Programming\TSTU\Malkov A. A\2nd year\Course Work\PageRank\PageRankLib\PageRankLib\obj\Debug\net8.0\refint\PageRankLib.dll
+A:\Programming\TSTU\Malkov A. A\2nd year\Course Work\PageRank\PageRankLib\PageRankLib\obj\Debug\net8.0\PageRankLib.pdb
+A:\Programming\TSTU\Malkov A. A\2nd year\Course Work\PageRank\PageRankLib\PageRankLib\obj\Debug\net8.0\ref\PageRankLib.dll

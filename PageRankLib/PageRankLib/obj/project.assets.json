@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\Курсовая работа\\PageRankLib\\PageRankLib\\PageRankLib.csproj",
+      "projectUniqueName": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\Course Work\\PageRank\\PageRankLib\\PageRankLib\\PageRankLib.csproj",
       "projectName": "PageRankLib",
-      "projectPath": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\Курсовая работа\\PageRankLib\\PageRankLib\\PageRankLib.csproj",
+      "projectPath": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\Course Work\\PageRank\\PageRankLib\\PageRankLib\\PageRankLib.csproj",
       "packagesPath": "C:\\Users\\vlad2\\.nuget\\packages\\",
-      "outputPath": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\Курсовая работа\\PageRankLib\\PageRankLib\\obj\\",
+      "outputPath": "A:\\Programming\\TSTU\\Malkov A. A\\2nd year\\Course Work\\PageRank\\PageRankLib\\PageRankLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
